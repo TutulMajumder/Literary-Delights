@@ -1,5 +1,9 @@
-Literary-Delights is a Online Bookshop Project using Java.
-Firstly,Download the file and then unzip .
-Secondly,open the Main.java file in a java based code editor.Run the Main.java file in cmd.
-Thirdly,in cmd write 'Javac Main.java && java Main'.
-And explore the project.
+Literary-Delights: An Online Bookshop Project
+
+Completed by: Tutul Majumder
+Semester: Fall 2023-24
+
+This repository features the "Literary-Delights" online bookshop project developed in Java, completed under the guidance of my faculty advisor during the Fall 2023-24 semester.
+
+
+Download and unzip the project files, then open Main.java in a Java editor like IntelliJ, Eclipse,Notepad++ or VS Code. In the terminal, navigate to the project folder and run javac Main.java && java Main to compile and execute the program. After running, feel free to explore project as desired.
