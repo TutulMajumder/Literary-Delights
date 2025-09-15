@@ -1,0 +1,38 @@
+Chander Pahar,Shankar,600,Images/B3.jpg
+Jiboner Jibon,Humayun Ahmed,400,Images/B4.jpg
+Shonali Diner Phool,Humayun Ahmed,250,Images/B5.jpg
+Kobi,Shibram Chakraborty,450,Images/B6.jpg
+Meghmallar,Shibram Chakraborty,300,Images/B7.jpg
+Madhushala,Harivansh Rai Bachchan,350,Images/B8.jpg
+Nishir Durgati,Shamsur Rahman,500,Images/B1.jpg
+Aajker Golpo,Samaresh Majumdar,450,Images/B9.jpg
+Shrestha Bangla Upanyas,Bibhutibhushan Bandyopadhyay,550,Images/B10.jpg
+Daktar Khama,Humayun Ahmed,600,Images/B1.jpg
+Titas Ekti Nadir Naam,Adwaita Mallabarman,500,Images/B1.jpg
+Kothao Keu Nei,Humayun Ahmed,350,Images/B1.jpg
+Sundarbans,Bibhash Choudhury,400,Images/B1.jpg
+Gaaner Opare,Samaresh Majumdar,550,Images/B1.jpg
+Kobi Satyendranath,Shibram Chakraborty,650,Images/B1.jpg
+Chhoto Boro Khela,Kazi Nazrul Islam,450,Images/B1.jpg
+Baishakhi Mela,Saratchandra Chattopadhyay,500,Images/B1.jpg
+Nabarun Bhattacharya,Nabarun Bhattacharya,600,Images/B1.jpg
+The Great Gatsby,F. Scott Fitzgerald,15.99,Images/B1.jpg
+To Kill a Mockingbird,Harper Lee,12.99,Images/B2.jpg
+1984,George Orwell,13.99,Images/B3.jpg
+Moby Dick,Herman Melville,18.50,Images/B4.jpg
+Pride and Prejudice,Jane Austen,9.99,Images/B5.jpg
+The Catcher in the Rye,J.D. Salinger,14.99,Images/B6.jpg
+The Hobbit,J.R.R. Tolkien,16.00,Images/B7.jpg
+War and Peace,Leo Tolstoy,22.00,Images/B8.jpg
+The Lord of the Rings,J.R.R. Tolkien,25.00,Images/B9.jpg
+The Chronicles of Narnia,C.S. Lewis,14.50,Images/B10.jpg
+Brave New World,Aldous Huxley,13.49,Images/B1.jpg
+Crime and Punishment,Fyodor Dostoevsky,16.00,Images/B2.jpg
+The Odyssey,Homer,19.99,Images/B3.jpg
+The Shining,Stephen King,17.99,Images/B4.jpg
+The Girl with the Dragon Tattoo,Stieg Larsson,15.00,Images/B5.jpg
+The Alchemist,Paulo Coelho,10.00,Images/B6.jpg
+The Kite Runner,Khaled Hosseini,12.50,Images/B7.jpg
+Fahrenheit 451,Ray Bradbury,13.75,Images/B8.jpg
+The Hunger Games,Suzanne Collins,11.00,Images/B9.jpg
+The Fault in Our Star,John Gre,14.20,Images/B10.jpg
